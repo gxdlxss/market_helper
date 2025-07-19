@@ -1,4 +1,4 @@
-#Market Stats for Majestic
+# Market Stats for Majestic
 
 ![Screenshot](shapka_uzkaya.JPG)
 
